@@ -1,4 +1,6 @@
-![](https://github.com/tfahim007/tfahim007/blob/main/Tahmid.gif)
+<center>
+<img src="https://github.com/tfahim007/tfahim007/blob/main/Tahmid.gif">
+</center>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tahmidulislam146) 
