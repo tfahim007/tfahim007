@@ -1,7 +1,4 @@
-
-<h1 align="left">Hello There, I'm Tahmidul Islam</h1>
-
-
+![](https://github.com/tfahim007/tfahim007/blob/main/Tahmid.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tahmidulislam146) 
@@ -20,8 +17,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tfahim007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tfahim007&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=tfahim007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tfahim007&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tfahim007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
