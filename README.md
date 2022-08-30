@@ -1,5 +1,5 @@
 <center>
-    ![](https://github.com/tfahim007/tfahim007/blob/main/Tahmid.gif")
+<img src="Tahmid.gif">
 </center>
 
 ## 🌐 Socials:
