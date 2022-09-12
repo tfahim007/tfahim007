@@ -1,6 +1,19 @@
 # Hello There! I am Tahmid.
 
 <!--START_SECTION:waka-->
+
+```text
+From: 04 September 2022 - To: 11 September 2022
+
+Total Time: 8 hrs 34 mins
+
+Java             6 hrs 3 mins    >>>>>>>>>>>>>>>>>>-------   70.68 %
+XML              2 hrs 14 mins   >>>>>>>------------------   26.07 %
+Markdown         15 mins         >------------------------   02.98 %
+SQL              1 min           -------------------------   00.25 %
+GitIgnore file   0 secs          -------------------------   00.02 %
+```
+
 <!--END_SECTION:waka-->
 
 
