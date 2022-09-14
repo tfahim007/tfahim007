@@ -1,5 +1,12 @@
-# Hello There! I am Tahmid.
+```java
+Class Introduction{
+    public final String name = "Tahmidul Islam";
 
+    public String sayHi(){
+        return "Hello There!";
+    }
+}
+```
 
 
 ![](https://github-readme-stats.vercel.app/api?username=tfahim007&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
