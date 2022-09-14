@@ -2,7 +2,7 @@
 Class Introduction{
     public final String name = "Tahmidul Islam";
 
-    public String sayHi(){
+    public String sayHello(){
         return "Hello There!";
     }
 }
